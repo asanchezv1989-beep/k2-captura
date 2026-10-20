@@ -1,0 +1,7 @@
+*.xlsb
+*.xlsx
+*.json
+!manifest.webmanifest
+respaldos K2/
+capturas aplicadas/
+__pycache__/
